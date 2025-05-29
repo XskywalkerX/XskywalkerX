@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XskywalkerX
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: lipeeskywalker@gmail.com
 - ⚡ Fun fact: I'm one of the minds behind fluxconnects.com
 <!---
